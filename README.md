@@ -8,7 +8,7 @@ I'm a Full Stack Web Develope @ExxonMobil with a background in Electronic Engine
 Feel free to explore my repositories, where I've shared some of my work. While the projects may vary, my goal is always to learn, create, and contribute to the tech community.
 -->
 🤝 Let's Connect
-I'm always open to collaboration and discussions! If you have ideas, questions, or just want to chat about tech, feel free to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-rubin-dev/), and let's build something amazing together.
+I'm always open to collaboration and discussions! If you have ideas, questions, or just want to chat about tech, feel free to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-rubin-dev/).
 
 Happy coding! 🚀💻
 <!--
